@@ -1,0 +1,16 @@
+--find-links https://download.pytorch.org/whl/torch_stable.html
+
+torch==1.10.0+cu102
+torchvision==0.11.0+cu102
+torchaudio==0.10.0
+setuptools==59.5.0
+sklearn
+tqdm
+pynvml
+pandas
+opencv-python
+scikit-image
+imgaug
+SimpleITK
+einops
+ml_collections
