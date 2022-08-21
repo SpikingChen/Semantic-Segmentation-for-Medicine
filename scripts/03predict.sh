@@ -1,4 +1,4 @@
-python predict_oct.py \
+python predict.py \
 --model 'UNet' \
 --checkpoint_path './checkpoints/checkpoint_epoch50.pth' \
 --root_path './preprocess_val_data' \
